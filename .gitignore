@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Env
+.env
+.env.local
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Uploads (keep structure)
+backend/uploads/images/*
+backend/uploads/documents/*
+backend/uploads/certificates/*
+backend/uploads/media/*
+!backend/uploads/**/.gitkeep
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
