@@ -1,0 +1,14 @@
+# Portfolio Full-Stack V2
+
+This is a professional full-stack developer portfolio platform.
+
+## Main sections
+- Home, About, Experience, Skills
+- Projects (with detail pages)
+- Products, Learning, Certificates
+- Downloads, Media, Startup, Clients
+- Recruiter mode, Contact, Meeting requests
+- Admin dashboard (protected)
+
+## Tech
+React + Vite frontend, FastAPI + PostgreSQL backend.
